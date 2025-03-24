@@ -4,7 +4,7 @@
 🔐 Passionné de **cybersécurité** et de **protection des systèmes d'information**  
 📅 À la recherche d’une **alternance en cybersécurité** pour **2 ans dès septembre 2025**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/[terence-fouchier](https://www.linkedin.com/in/terence-fouchier-512b7526a/)/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/terence-fouchier-512b7526a](https://www.linkedin.com/in/terence-fouchier-512b7526a/)/)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Terry2932)  
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)]()  
 [![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]()  
