@@ -54,6 +54,5 @@
 ## ✉️ Me contacter
 
 📧 terence.fouchier@edu.ece.fr  
-📱 +33 7 62 72 79 15  
-📍 Neuilly-Sur-Seine / Lille  
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/terence-fouchier/)  
