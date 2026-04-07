@@ -1,8 +1,8 @@
 # Terence FOUCHIER
 
-🎓 Étudiant en 3ème année d’ingénierie à l’ECE Paris  
+🎓 Étudiant en 4ème année d’ingénierie à l’ECE Paris  
 🔐 Passionné de **cybersécurité** et de **protection des systèmes d'information**  
-📅 À la recherche d’une **alternance en cybersécurité** pour **2 ans dès septembre 2025**
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/terence-fouchier-512b7526a//) 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Terry2932)  
